@@ -39,7 +39,7 @@ $mvn clean verify
 [INFO] Building war: /Users/prem/Desktop/codebase/java-maven-sample-war/target/Example-0.0.1-SNAPSHOT.war
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
-[INFO] -----------------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
 [INFO] Total time: 3.698 s
 [INFO] Finished at: 2018-10-31T20:12:34+05:30
 [INFO] Final Memory: 16M/139M
